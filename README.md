@@ -16,3 +16,4 @@ Saya juga memiliki gelar [Google Associate Android Developer](http.nyusul.com) s
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhfirdauss/)ku ya.
 
+*TERIMAKASIH*

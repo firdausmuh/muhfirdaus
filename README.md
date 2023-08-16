@@ -1,8 +1,8 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Muhamad Firdaus**.\
+Perkenalkan nama saya **Muhamad Firdaus**.
 
-Saya seorang **Android Developer** di [Dicoding](https://www.dicoding.com/).\
+Saya seorang **Android Developer** di [Dicoding](https://www.dicoding.com/).
 
 Saya bertanggung jawab untuk belajar develop Aplikasi dari dasar hingga di publikasikan [sertifikasi dari Dicoding Academy]
 

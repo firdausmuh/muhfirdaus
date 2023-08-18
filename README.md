@@ -28,8 +28,8 @@ Saya juga memiliki gelar [Google Associate Android Developer](http.nyusul.com) s
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/firdausmuh">
-<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=buefy"/>
-<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=firdausmuh&layout=compact&langs_count=8&theme=buefy"/>
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=firdausmuh&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 

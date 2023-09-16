@@ -1,4 +1,11 @@
-# Halo semua! 
+# Hi, Coders! [<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">](https://firdausmuh.github.io/)
+
+<img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/header_.png?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">
+
+![version: 02.07.2023](https://img.shields.io/badge/version-02.07.2023-informational)&nbsp;
+![Visitors](https://komarev.com/ghpvc/?username=firdausmuh&style=flat&label=visitors)&nbsp;
+[![Wakatime](https://wakatime.com/badge/user/86dab614-3d73-414f-ac95-9d23f118db89.svg)](https://wakatime.com/@firdausmuh)&nbsp;
+[![GitHub: firdausmuh](https://img.shields.io/github/followers/firdausmuh?label=follow&style=social)](https://github.com/firdausmuh)&nbsp;
 
 Perkenalkan nama saya **Muhamad Firdaus**.
 
@@ -33,12 +40,11 @@ Saya juga memiliki gelar [Google Associate Android Developer](http.nyusul.com) s
 </a>
 </p>
 
-### 🔍 You Can Find Me at 
-<p> 
-  <a href="https://www.linkedin.com/in/muhfirdauss/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> 
-  <a href="https://www.instagram.com/muhfirdaus84/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a> 
-</p
+## 🤝🏻 Find Me!
+[![Email: muhfrds345@gmail.com](https://img.shields.io/badge/-muhfrds345@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:muhfrds345@gmail.com)
+[![LinkedIn: Muhamad Firdaus](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhfirdauss/)](https://www.linkedin.com/in/muhfirdauss/)&nbsp;
+[![Instagram: Follow firdausmuh84](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/muhfirdaus84/)&nbsp;
+[![Twitter: Follow @muhfrds345](https://img.shields.io/twitter/follow/firdausmuh?style=social)](https://twitter.com/muhfrds345);
+---
+
+<img align="center" src="https://github.com/fachridantm/fachridantm/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake">

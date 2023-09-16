@@ -44,7 +44,7 @@ Saya juga memiliki gelar [Google Associate Android Developer](http.nyusul.com) s
 [![Email: muhfrds345@gmail.com](https://img.shields.io/badge/-muhfrds345@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:muhfrds345@gmail.com)
 [![LinkedIn: Muhamad Firdaus](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhfirdauss/)](https://www.linkedin.com/in/muhfirdauss/)&nbsp;
 [![Instagram: Follow firdausmuh84](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/muhfirdaus84/)&nbsp;
-[![Twitter: Follow @muhfrds345](https://img.shields.io/twitter/follow/firdausmuh?style=social)](https://twitter.com/muhfrds345);
+[![Twitter: Follow @muhfrds345](https://img.shields.io/twitter/follow/firdausmuh?style=social)](https://twitter.com/muhfrds345)
 ---
 
 <img align="center" src="https://github.com/fachridantm/fachridantm/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake">

@@ -5,7 +5,7 @@
 ![version: 02.07.2023](https://img.shields.io/badge/version-02.07.2023-informational)&nbsp;
 ![Visitors](https://komarev.com/ghpvc/?username=firdausmuh&style=flat&label=visitors)&nbsp;
 [![Wakatime](https://wakatime.com/badge/user/86dab614-3d73-414f-ac95-9d23f118db89.svg)](https://wakatime.com/@firdausmuh)&nbsp;
-[![GitHub: firdausmuh](https://img.shields.io/github/followers/firdausmuh?label=follow&style=social)](https://github.com/firdausmuh)&nbsp;
+[![GitHub: firdausmuh](https://img.shields.io/github/followers/firdausmuh?label=follow&style=social)](https://github.com/firdausmuh)&nbsp
 
 Perkenalkan nama saya **Muhamad Firdaus**.
 

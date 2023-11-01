@@ -14,9 +14,13 @@ Saya adalah **Muhamad Firdaus**, seorang pelajar **Android Developer** yang saat
 📚 Sertifikasi Dicoding:
 - [Belajar Dasar Memulai Pemrograman untuk Menjadi Pengembang Software](https://www.dicoding.com/certificates/1OP80850QXQK).
 - [Pengenalan ke Logika Pemrograman](https://www.dicoding.com/certificates/2VX3J7KKNPYQ).
+- [Belajar Dasar Git dan GitHub](https://www.dicoding.com/certificates/53XENREMRXRN).
+- [Memulai Pemrograman dengan Kotlin](https://www.dicoding.com/certificates/2VX3JGRD3PYQ).
+- [Belajar membuat Aplikasi Android untuk Pemula](https://www.dicoding.com/certificates/EYX4YROOOZDL).
+- [Belajar Fundamental Aplikasi Android](https://www.dicoding.com/certificates/EYX4YG615ZDL).
+- [Belajar Prinsip Pemrograman SOLID](https://www.dicoding.com/certificates/2VX365194XYQ).
 
 Terima kasih telah mengunjungi repositori saya. Saya berharap Anda akan menemukan proyek-proyek menarik di sini, dan saya selalu terbuka untuk kolaborasi dan umpan balik dari komunitas.
-
 
 ### Tech Stack
   <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white"/>

@@ -7,19 +7,16 @@
 [![Wakatime](https://wakatime.com/badge/user/86dab614-3d73-414f-ac95-9d23f118db89.svg)](https://wakatime.com/@firdausmuh)&nbsp;
 [![GitHub: firdausmuh](https://img.shields.io/github/followers/firdausmuh?label=follow&style=social)](https://github.com/firdausmuh)&nbsp;
 
-Perkenalkan nama saya **Muhamad Firdaus**.
+👋 Selamat Datang di Repositori GitHub Saya 👋
 
-Saya seorang **Android Developer** di [Dicoding](https://www.dicoding.com/).
+Saya adalah **Muhamad Firdaus**, seorang pelajar **Android Developer** yang saat ini sedang belajar di [Dicoding](https://www.dicoding.com/). Tugas utama saya adalah mempelajari, mengembangkan, dan mendokumentasikan berbagai aplikasi dari awal hingga di-publish, sebagai bagian dari **sertifikasi dari Dicoding Academy**.
 
-Saya bertanggung jawab untuk belajar develop Aplikasi dari dasar hingga di publikasikan [sertifikasi dari Dicoding Academy]
+📚 Sertifikasi Dicoding:
+- [Belajar Dasar Memulai Pemrograman untuk Menjadi Pengembang Software](https://www.dicoding.com/certificates/1OP80850QXQK).
+- [Pengenalan ke Logika Pemrograman](https://www.dicoding.com/certificates/2VX3J7KKNPYQ).
 
-**Belajar Dasar Memulai Pemrograman untuk Menjadi Pengembang Software**
-(https://www.dicoding.com/certificates/1OP80850QXQK).\
+Terima kasih telah mengunjungi repositori saya. Saya berharap Anda akan menemukan proyek-proyek menarik di sini, dan saya selalu terbuka untuk kolaborasi dan umpan balik dari komunitas.
 
-**Pengenalan ke Logika Pemrograman**
-(https://www.dicoding.com/certificates/2VX3J7KKNPYQ).
-
-Saya juga memiliki gelar [Google Associate Android Developer](http.nyusul.com) sejak 2023.\
 
 ### Tech Stack
   <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white"/>

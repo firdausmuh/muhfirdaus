@@ -9,16 +9,18 @@
 
 👋 Selamat Datang di Repositori GitHub Saya 👋
 
-Saya adalah **Muhamad Firdaus**, seorang pelajar **Android Developer** yang saat ini sedang belajar di [Dicoding](https://www.dicoding.com/). Tugas utama saya adalah mempelajari, mengembangkan, dan mendokumentasikan berbagai aplikasi dari awal hingga di-publish, sebagai bagian dari **sertifikasi dari Dicoding Academy**.
+Saya **Muhamad Firdaus**, seorang pelajar **Android Developer** yang saat ini sedang belajar di [Dicoding](https://www.dicoding.com/). Tugas utama saya adalah mempelajari, mengembangkan, dan mendokumentasikan berbagai aplikasi dari awal hingga di-publish, sebagai bagian dari **sertifikasi dari Dicoding Academy**.
 
 📚 Sertifikasi Dicoding:
-- [Belajar Dasar Memulai Pemrograman untuk Menjadi Pengembang Software](https://www.dicoding.com/certificates/1OP80850QXQK).
-- [Pengenalan ke Logika Pemrograman](https://www.dicoding.com/certificates/2VX3J7KKNPYQ).
-- [Belajar Dasar Git dan GitHub](https://www.dicoding.com/certificates/53XENREMRXRN).
-- [Memulai Pemrograman dengan Kotlin](https://www.dicoding.com/certificates/2VX3JGRD3PYQ).
-- [Belajar membuat Aplikasi Android untuk Pemula](https://www.dicoding.com/certificates/EYX4YROOOZDL).
-- [Belajar Fundamental Aplikasi Android](https://www.dicoding.com/certificates/EYX4YG615ZDL).
-- [Belajar Prinsip Pemrograman SOLID](https://www.dicoding.com/certificates/2VX365194XYQ).
+- [Belajar Dasar Memulai Pemrograman untuk Menjadi Pengembang Software](https://www.dicoding.com/certificates/1OP80850QXQK)
+- [Pengenalan ke Logika Pemrograman](https://www.dicoding.com/certificates/2VX3J7KKNPYQ)
+- [Belajar Dasar Git dan GitHub](https://www.dicoding.com/certificates/53XENREMRXRN)
+- [Memulai Pemrograman dengan Kotlin](https://www.dicoding.com/certificates/2VX3JGRD3PYQ)
+- [Belajar membuat Aplikasi Android untuk Pemula](https://www.dicoding.com/certificates/EYX4YROOOZDL)
+- [Belajar Fundamental Aplikasi Android](https://www.dicoding.com/certificates/EYX4YG615ZDL)
+- [Belajar Pengembang Aplikasi Android Intermediete](https://www.dicoding.com/certificates/L4PQ8KY8QZO1)
+- [Belajar Prinsip Pemrograman SOLID](https://www.dicoding.com/certificates/2VX365194XYQ)
+- [Belajar Membuat Aplikasi Android dengan Jetpack Compose](https://www.dicoding.com/certificates/L4PQ8N37QZO1)
 
 Terima kasih telah mengunjungi repositori saya. Saya berharap Anda akan menemukan proyek-proyek menarik di sini, dan saya selalu terbuka untuk kolaborasi dan umpan balik dari komunitas.
 

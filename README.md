@@ -7,9 +7,9 @@
 [![Wakatime](https://wakatime.com/badge/user/86dab614-3d73-414f-ac95-9d23f118db89.svg)](https://wakatime.com/@firdausmuh)&nbsp;
 [![GitHub: firdausmuh](https://img.shields.io/github/followers/firdausmuh?label=follow&style=social)](https://github.com/firdausmuh)&nbsp;
 
-👋 Selamat Datang di Repositori GitHub Saya 👋
+👋 Welcome to My GitHub Repository👋
 
-Saya **Muhamad Firdaus**, seorang pelajar **Android Developer** yang saat ini sedang belajar di [Dicoding](https://www.dicoding.com/). Tugas utama saya adalah mempelajari, mengembangkan, dan mendokumentasikan berbagai aplikasi dari awal hingga di-publish, sebagai bagian dari **sertifikasi dari Dicoding Academy**.
+I am **Muhamad Firdaus**, a student **Android Developer** currently studying at [Dicoding](https://www.dicoding.com/). My main tasks include learning, developing, and documenting various applications from scratch to publication as part of the **certification process at Dicoding Academy**.
 
 📚 Sertifikasi Dicoding:
 - [Belajar Dasar Memulai Pemrograman untuk Menjadi Pengembang Software](https://www.dicoding.com/certificates/1OP80850QXQK)
@@ -22,7 +22,7 @@ Saya **Muhamad Firdaus**, seorang pelajar **Android Developer** yang saat ini se
 - [Belajar Prinsip Pemrograman SOLID](https://www.dicoding.com/certificates/2VX365194XYQ)
 - [Belajar Membuat Aplikasi Android dengan Jetpack Compose](https://www.dicoding.com/certificates/L4PQ8N37QZO1)
 
-Terima kasih telah mengunjungi repositori saya. Saya berharap Anda akan menemukan proyek-proyek menarik di sini, dan saya selalu terbuka untuk kolaborasi dan umpan balik dari komunitas.
+Thank you for visiting my repository. I hope you'll find interesting projects here, and I'm always open to collaboration and feedback from the community.
 
 ### Tech Stack
   <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white"/>

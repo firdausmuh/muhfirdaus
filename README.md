@@ -11,6 +11,11 @@
 
 I am **Muhamad Firdaus**, a student **Android Developer** currently studying at [Dicoding](https://www.dicoding.com/). My main tasks include learning, developing, and documenting various applications from scratch to publication as part of the **certification process at Dicoding Academy**.
 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/firdaus)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muhfirdaus84) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhfirdauss/)
+
 📚 Sertifikasi Dicoding:
 - [Belajar Dasar Memulai Pemrograman untuk Menjadi Pengembang Software](https://www.dicoding.com/certificates/1OP80850QXQK)
 - [Pengenalan ke Logika Pemrograman](https://www.dicoding.com/certificates/2VX3J7KKNPYQ)

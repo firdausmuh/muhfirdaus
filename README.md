@@ -16,7 +16,7 @@ I am **Muhamad Firdaus**, a student **Android Developer** currently studying at 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muhfirdaus84) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhfirdauss/)
 
-📚 Sertifikasi Dicoding:
+<!-- 📚 Sertifikasi Dicoding:
 - [Belajar Dasar Memulai Pemrograman untuk Menjadi Pengembang Software](https://www.dicoding.com/certificates/1OP80850QXQK)
 - [Pengenalan ke Logika Pemrograman](https://www.dicoding.com/certificates/2VX3J7KKNPYQ)
 - [Belajar Dasar Git dan GitHub](https://www.dicoding.com/certificates/53XENREMRXRN)
@@ -25,7 +25,7 @@ I am **Muhamad Firdaus**, a student **Android Developer** currently studying at 
 - [Belajar Fundamental Aplikasi Android](https://www.dicoding.com/certificates/EYX4YG615ZDL)
 - [Belajar Pengembang Aplikasi Android Intermediete](https://www.dicoding.com/certificates/L4PQ8KY8QZO1)
 - [Belajar Prinsip Pemrograman SOLID](https://www.dicoding.com/certificates/2VX365194XYQ)
-- [Belajar Membuat Aplikasi Android dengan Jetpack Compose](https://www.dicoding.com/certificates/L4PQ8N37QZO1)
+- [Belajar Membuat Aplikasi Android dengan Jetpack Compose](https://www.dicoding.com/certificates/L4PQ8N37QZO1) -->
 
 Thank you for visiting my repository. I hope you'll find interesting projects here, and I'm always open to collaboration and feedback from the community.
 

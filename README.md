@@ -58,12 +58,12 @@ Thank you for visiting my repository. I hope you'll find interesting projects he
 
 <h1 align="center">Work in progress</h1>
 <p align="center">Other features are in progress, feel free to follow me to discover them.</p>
-<p align="center">To understand how it works, take a look <a href="https://github.com/firdausmuh/dynamic-readme" target="_blank" rel="noreferrer" title="github dynalic readme">here</a></p>
+<p align="center">To understand how it works, take a look <a href="https://github.com/firdausmuh" target="_blank" rel="noreferrer" title="github dynalic readme">here</a></p>
 <p align="center">
   <img align="center" src="https://o.charles-chrismann.fr/trigger" alt="work in progress" width="256" />
 </p>
 <p align="center">
-  <a href="https://github.com/firdausmuh">See ya <3</a>
+  <a href="https://github.com/firdausmuh">See ya mwehe<3</a>
 </p>
 <p align="right">Generated in 0.253s on Sun Dec 22 at 19:00</p>
 

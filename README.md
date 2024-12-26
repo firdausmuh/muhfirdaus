@@ -18,7 +18,7 @@ I am **Muhamad Firdaus**, a student **Android Developer** currently studying at 
 
 PORTOFOLIO: 
 <a href="https://www.figma.com/proto/jRZITY9WP0PYQxayW7EfAG/Portofolio-web?page-id=1%3A2&node-id=4-869&viewport=961%2C866%2C0.49&t=afQySDpaiIrmvrhn-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=4%3A869" title="Portfolio">
-  <img alt="Website" src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white" height="30" align="center" />
+  <img alt="Website" src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white" height="30" align="center"/>
 </a>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="35" height="35" align="center" style="margin-left: 10px;" /> 
 <hr>

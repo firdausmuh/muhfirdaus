@@ -15,7 +15,7 @@ I am **Muhamad Firdaus**, a student **Informatic Engineering** currently studyin
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Swift, UIKit & SwiftUI<br>🎯 Goals: Develop well designed and high performance apps<br>🎲 Fun fact: I used to code Flutter</p>
+<p align="left">✨ Learning informatic since 2020<br>📚 I'm currently learning kotlin, java, jetpack compose and Dart Flutter<br>🎯 Goals: Develop well designed and high performance apps<br>🎲 Fun fact: I used to code Flutter</p>
 
 ## 🤝🏻 Find Me!
 [![Email: muhfrds345@gmail.com](https://img.shields.io/badge/-muhfrds345@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:muhfrds345@gmail.com)

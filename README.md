@@ -9,12 +9,41 @@
 
 👋 Welcome to My GitHub Repository👋
 
-I am **Muhamad Firdaus**, a student **Android Developer** currently studying at [Dicoding](https://www.dicoding.com/). My main tasks include learning, developing, and documenting various applications from scratch to publication as part of the **certification process at Dicoding Academy**.
+I am **Muhamad Firdaus**, a student **Informatic Engineering** currently studying at [PGRI university of yogyakarta](https://upy.ac.id/). My main tasks include learning, developing, and documenting various applications from scratch to publication as part of the **certification process at Dicoding Academy**.
 
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Swift, UIKit & SwiftUI<br>🎯 Goals: Develop well designed and high performance apps<br>🎲 Fun fact: I used to code Flutter</p>
+
+## 🤝🏻 Find Me!
+[![Email: muhfrds345@gmail.com](https://img.shields.io/badge/-muhfrds345@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:muhfrds345@gmail.com)
+[![LinkedIn: Muhamad Firdaus](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhfirdauss/)](https://www.linkedin.com/in/muhfirdauss/)&nbsp;
+[![Instagram: Follow firdausmuh84](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/muhfirdaus84/)&nbsp;
+[![Twitter: Follow @muhfrds345](https://img.shields.io/twitter/follow/firdausmuh?style=social)](https://twitter.com/muhfrds345)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/mfirdaus)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muhfirdaus84) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhfirdauss/)
+<a href="https://www.figma.com/proto/jRZITY9WP0PYQxayW7EfAG/Portofolio-web?page-id=1%3A2&node-id=4-869&viewport=961%2C866%2C0.49&t=afQySDpaiIrmvrhn-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=4%3A869" title="Portfolio">
+  <img 
+    alt="Website" 
+    src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white" 
+    height="20" 
+    width="100" 
+    align="start" 
+    style="border-radius: 10px;" 
+  />
+</a>
+<img 
+  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" 
+  alt="Handshake" 
+  width="20" 
+  height="20" 
+  align="start" 
+  style="margin-left: 10px; border-radius: 80%;" 
+/>
+<hr>
+---
 
 PORTOFOLIO: 
 <a href="https://www.figma.com/proto/jRZITY9WP0PYQxayW7EfAG/Portofolio-web?page-id=1%3A2&node-id=4-869&viewport=961%2C866%2C0.49&t=afQySDpaiIrmvrhn-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=4%3A869" title="Portfolio">
@@ -54,14 +83,6 @@ Thank you for visiting my repository. I hope you'll find interesting projects he
 <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=firdausmuh&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
 </a>
 </p>
-
-## 🤝🏻 Find Me!
-[![Email: muhfrds345@gmail.com](https://img.shields.io/badge/-muhfrds345@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:muhfrds345@gmail.com)
-[![LinkedIn: Muhamad Firdaus](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhfirdauss/)](https://www.linkedin.com/in/muhfirdauss/)&nbsp;
-[![Instagram: Follow firdausmuh84](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/muhfirdaus84/)&nbsp;
-[![Twitter: Follow @muhfrds345](https://img.shields.io/twitter/follow/firdausmuh?style=social)](https://twitter.com/muhfrds345)
----
-
 
 <h1 align="center">Work in progress</h1>
 <p align="center">Other features are in progress, feel free to follow me to discover them.</p>
